@@ -25,6 +25,8 @@ This icon pack includes images for most actions supported by the Stream Deck Eli
 
 First, install the [Stream Deck Elite Plug-In](https://github.com/mhwlng/streamdeck-elite) if you haven't already. 
 
+Download the latest release from the [Releases](releases) page.
+
 To use the icons, copy the icon set of your choice to your Documents folder or some other convenient location then use the Stream Deck configuration application to drag actions onto the panel layout.
 
 ## Generic & Static Buttons
