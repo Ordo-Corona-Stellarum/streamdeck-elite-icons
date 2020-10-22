@@ -6,7 +6,6 @@ Themeable, language-neutral icons for the [Stream Deck Elite plugin](https://git
 ![icons](images/Sidewinder%20Orange.png)
 ![icons](images/Asp%20Cyan.png)
 ![icons](images/Alliance%20Red.png)
-![streamdeck](images/stream-deck.jpg)
 
 This project contains icons for use with the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 family of programmable LCD button boxes that are designed to work with the [Stream Deck Elite plugin](https://github.com/mhwlng/streamdeck-elite) for Elite Dangerous.
