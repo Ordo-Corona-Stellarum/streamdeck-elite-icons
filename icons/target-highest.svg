@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="target-highest.svg"
-   inkscape:export-filename="C:\Users\keath\Workspace\KMX\elite-streamdeck-icons\target-highest.png"
+   inkscape:export-filename="C:\Users\keath\Workspace\KMX\elite-streamdeck-icons\srv.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -36,9 +36,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="140.61213"
-     inkscape:cy="124.54587"
+     inkscape:zoom="5.6"
+     inkscape:cx="128.15867"
+     inkscape:cy="108.82889"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -54,7 +54,9 @@
      inkscape:document-rotation="0"
      showguides="true"
      showborder="true"
-     borderlayer="false">
+     borderlayer="false"
+     inkscape:snap-to-guides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4623" />
@@ -122,6 +124,13 @@
        position="0,0"
        orientation="-256,0"
        id="guide3381" />
+    <sodipodi:guide
+       position="33.866667,62.441667"
+       orientation="-1,0"
+       id="guide852"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -139,41 +148,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Icon">
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3571"
-       cx="34.537579"
-       cy="25.324398"
-       r="16.016739" />
     <path
-       style="fill:none;stroke:#808080;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 47.095833,25.135417 c 6.614583,0 6.614583,0 6.614583,0"
-       id="path3573-3" />
+       id="rect859"
+       style="fill:#808080;stroke:none;stroke-width:2.66615;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="M 5.2916667,5.2916667 V 18.110351 H 8.5735816 V 8.2075425 H 21.395403 V 5.2916667 Z m 40.7816783,0 v 2.9158758 h 12.821821 v 9.9028085 h 3.281917 V 5.2916667 Z M 5.2916667,32.160485 V 44.979166 H 21.395403 V 42.063144 H 8.5735816 v -9.902659 z m 53.6034993,0 v 9.902659 H 46.073345 v 2.916022 H 62.177083 V 32.160485 Z" />
     <path
-       style="fill:none;stroke:#808080;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 34.395833,38.364583 c 0,5.291666 0,5.291666 0,5.291666"
-       id="path3573-37" />
-    <path
-       style="fill:none;stroke:#808080;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 34.395833,6.6145838 c 0,5.2916662 0,5.2916662 0,5.2916662"
-       id="path3573-37-2" />
-    <path
-       style="fill:none;stroke:#808080;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 15.081251,25.135417 c 6.614583,0 6.614583,0 6.614583,0"
-       id="path3573-3-1" />
-    <rect
-       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3655"
-       width="2.6458333"
-       height="9.260416"
-       x="33.072918"
-       y="17.727083" />
-    <rect
-       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3657"
-       width="2.6458333"
-       height="1.3229166"
-       x="33.072918"
-       y="30.956251" />
+       id="path850"
+       style="fill:#808080;stroke-width:9.00001;stroke-linecap:square;paint-order:markers fill stroke"
+       inkscape:transform-center-y="-4.2994776"
+       d="M 127.89258,42.5 65.392578,140 H 190.39258 Z M 120,73.035156 h 15 v 42.179684 h -15 z m 0,47.179684 h 15 v 10 h -15 z"
+       transform="scale(0.26458333)" />
   </g>
 </svg>
