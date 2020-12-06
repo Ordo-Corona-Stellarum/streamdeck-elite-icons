@@ -31,8 +31,6 @@ TODOs
 ## Out of Game
 
 * Spansh
-* Coriolis Shipyard
-* EDSM
 * Elite
 * Elite Trade
 * Elite Combat
